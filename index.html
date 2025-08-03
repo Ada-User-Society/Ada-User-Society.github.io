@@ -1,1 +1,138 @@
-Hello World
+---
+layout: landing-page
+---
+
+<section id="intro" class="wrapper style1">
+	<div class="container">
+		<div class="row">
+
+			<div class="8u">
+				<section>
+					<h2>About the Ada User Society</h2>
+					<p>
+					The Ada User Society is an organisation whose purpose is to promote and develop world-wide the Ada programming language.
+
+<div class="imgage">
+					<img src="images/ada-user-logo.jpg" alt="{{ filename }}" title="{{ filename }}" />
+</div>
+</p>
+				</section>
+			</div> <!-- 8u -->
+
+			<div class="4u">
+				<section>
+					<h3>News</h3>
+					<ul class="alt">
+						{% for post in site.posts %}
+						<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%m/%d/%Y" }} {{ post.title }}</a></li>
+						{% endfor %}
+					</ul>
+				</section>
+			</div> <!-- 8u -->
+		</div> <!--row -->
+	</div> <!-- container -->
+</section>
+
+<section id="features" class="wrapper style1">
+	<header class="major">
+		<h2>Ada User Society </h2>
+	</header>
+
+	<div class="container">
+		<div class="row">
+			<div class="4u">
+				<section class="special box">
+					<i class="icon fa-book major"></i>
+					<h3>Publications</h3>
+					<p>List of publications
+					</p>
+					<ul class="actions">
+						<li><a href="{{ site.baseurl }}publis.html" class="button alt">Learn More</a></li>
+					</ul>
+				</section>
+			</div>
+			<div class="4u">
+				<section class="special box">
+					<i class="icon fa-terminal major"></i>
+					<h3>Projects</h3>
+					<p>List of Projects
+					</p>
+					<ul class="actions">
+						<li><a href="{{ site.baseurl }}tools.html" class="button alt">Learn More</a></li>
+					</ul>
+				</section>
+			</div>
+			<div class="4u">
+				<section class="special box">
+					<i class="icon fa-check-square major"></i>
+					<h3>Demonstrators</h3>
+					<p>Showcase
+					</p>
+					<ul class="actions">
+						<li><a href="{{ site.baseurl }}demos.html" class="button alt">Learn More</a></li>
+					</ul>
+				</section>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="features" class="wrapper style1">
+	<header class="major">
+		<h2>Ada User Society Sponsors </h2>
+	</header>
+
+	<div class="container">
+		<div class="8u">
+		<section>
+
+		<style>
+			.image-gallery {overflow: auto; margin-left: -1%!important;}
+			.image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+			.image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+			.image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+			.image-gallery li a img {width: 100%; display: block;}
+		</style>
+		<p> The Ada User Society thanks its sponsors for their support.</p>
+		
+		<div class="list-container">
+			<ul class="image-gallery">
+				<li><a href="https://www.ada-europe.org" title="{{ logo-adaeurope }}">
+					<img src="images/logo-adaeurope.jpg" alt="{{ filename }}" title="{{ filename }}" />
+					</a></li>
+
+				<li><a href="https://www.adalog.fr/en/adalog.html" title="{{ logo-adalog }}">
+					<img src="images/logo-adalog.jpg" alt="{{ filename }}" title="{{ filename }}" />
+				</a></li>
+
+				<li><a href="https://annexi-strayline.com" title="{{ logo-annexi-strayline }}">
+					<img src="images/logo-annexi-strayline.png" alt="{{ filename }}" title="{{ filename }}" />
+				</a></li>
+
+				<li><a href="https://www.konad.de" title="{{ logo-konad }}">
+					<img src="images/logo-konad.jpg" alt="{{ filename }}" title="{{ filename }}" />
+				</a></li>
+
+				<li><a href="http://www.rrsoftware.com" title="{{ logo-rr }}">
+					<img src="images/logo-rr.jpg" alt="{{ filename }}" title="{{ filename }}" />
+				</a></li>
+
+				<li><a href="https://sysada.co.uk" title="{{ logo-sysada }}">
+					<img src="images/logo-sysada.jpg" alt="{{ filename }}" title="{{ filename }}" />
+				</a></li>
+
+				<li><a href="http://www.tidorum.fi" title="{{ logo-tidorum }}">
+					<img src="images/logo-tidorum.png" alt="{{ filename }}" title="{{ filename }}" />
+				</a></li>
+
+				<li><a href="http://www.white-elephant.ch" title="{{ logo-white }}">
+					<img src="images/logo-whiteelephant.png" alt="{{ filename }}" title="{{ filename }}" />
+				</a></li>
+			</ul>
+		</div>
+		</section>
+		</div>
+	</div>
+</section>
+
+
