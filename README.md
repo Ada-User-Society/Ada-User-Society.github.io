@@ -1,4 +1,4 @@
-# acps-sei.github.io Website
+# ada-user-society.github.io Website
 
 This is the master repository for the [Ada User Society website](https://ada-user-society.github.io).
 
