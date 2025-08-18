@@ -55,6 +55,6 @@ Accomplishing those objectives requires:
 2. Voluntary contribution to the technical work entailed by the maintenance of the language specifications, including reference implementations, libraries, utilities and example applications, and any other implementation contributions that amplify the language ecosystem.
 3. Financial donations to help sustain the costs that necessarily arise in keeping conformance with the ISO process, and to promote and reward implementation contributions.
 
-The Ada User Society was founded on 11 April 2024 with this specific mission. Carrying it out requires your help: please, consider joining!
+The Ada User Society was founded on 11 April 2024 with this specific mission. Carrying it out requires your help: [please, consider joining]({%link join.html %})!
 
-*This text is an adaptation of the short article “It is Time to Care for Ada!”, which appeared in Issue 4, Volume 45 of the Ada User Journal, a periodical of Ada-Europe and the companion [presentation]({%link assets/AEiC2025InvitedTalk.pdf %})*
+*This text is an adaptation of the short article “It is Time to Care for Ada!”, which appeared in Issue 4, Volume 45 of the Ada User Journal, a periodical of Ada-Europe, and the companion [presentation]({%link assets/AEiC2025InvitedTalk.pdf %})*
