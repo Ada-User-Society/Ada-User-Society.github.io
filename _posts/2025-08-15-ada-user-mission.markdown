@@ -57,4 +57,6 @@ Accomplishing those objectives requires:
 
 The Ada User Society was founded on 11 April 2024 with this specific mission. Carrying it out requires your help: [please, consider joining]({%link join.html %})!
 
-*This text is an adaptation of the short article “It is Time to Care for Ada!”, which appeared in Issue 4, Volume 45 of the Ada User Journal, a periodical of Ada-Europe, and the companion [presentation]({%link assets/AEiC2025InvitedTalk.pdf %})*
+*This text is an adaptation of the short article “It is Time to Care for Ada!”, which appeared in Issue 4, Volume 45 of the Ada User Journal, a periodical of Ada-Europe.*
+
+*See the companion [presentation]({%link assets/AEiC2025InvitedTalk.pdf %}).*
