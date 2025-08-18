@@ -4,7 +4,7 @@ title: Credits
 ---
 
 <div class="container">
-<p>&copy; Ada User Socity Webstei. All rights reserved.</p>
+<p>&copy; Ada User Society website. All rights reserved.</p>
   <ul>
     <li>HTML/CSS Design: <a href="http://templated.co">TEMPLATED</a></li>
 
