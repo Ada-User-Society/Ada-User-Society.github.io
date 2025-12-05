@@ -28,7 +28,7 @@ The current Board of Directors, established at the October 2025 General Assembly
 {% include bio.html
     image_path="images/tucker_taft.jpeg"
     title="Tucker Taft, US, Vice-President"
-    email='tucker.taft@gmail.com'
+    email='vice-president@ada-user.org'
     description="S. Tucker Taft is Director of Language Research at AdaCore. His specialties include programming language design, advanced static analysis tools, formal methods, real-time systems, parallel programming, and model-based development. Tucker was a lead designer of the Ada 95 programming language, and is a member of the ISO Rapporteur Group that developed Ada 2005, Ada 2012, and Ada 2022. Tucker designed and implemented a parallel programming language called ParaSail, and helped define parallel programming extensions for Ada as part of the Ada 2022 standard.​ Prior to joining AdaCore, Tucker was Founder and CTO of SofCheck, Inc., providing tools and technology to enhance software development quality and productivity.  Prior to that Mr. Taft was a Chief Scientist at Intermetrics, Inc. and its follow-ons for 22 years.  Tucker received an A.B. Summa Cum Laude degree from Harvard University, where he also taught courses in compiler construction and programming language design."
 %}
 
