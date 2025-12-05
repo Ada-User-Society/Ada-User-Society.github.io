@@ -1,0 +1,18 @@
+<div class="container">
+    <h5> {{ include.title }}</h5>
+    <div class="row">
+        <div class="3u">
+            <section>
+                <img src="{{ include.image_path }}" alt="" width="250"  padding="10px">
+            </section>
+        </div> <!-- 3u -->
+
+        <div class="6u">
+            <section>
+                Contact: {{ include.email| encode_email  }}
+
+                {{ include.description | markdownify }}
+            </section>
+        </div> <!-- 8u -->
+    </div> <!--row -->
+</div> <!-- container -->
