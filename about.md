@@ -49,7 +49,7 @@ The current Board of Directors, established at the October 2025 General Assembly
 {% include bio.html
     image_path="images/richard_wai.jpg"
     title="Richard Wai, CA"
-
+    email='richard@ada-user.org'
     description="Richard Wai is a life-long programmer and ardent Ada advocate. Richard has a broad range of professional software engineering experience spanning startups to Fortune 500 businesses, including safety-critical space and autonomous vehicle software, mission critical API infrastructure, capital market trading applications, and consumer-facing software. Richard has a specific career focus towards the adoption and use of Ada in mainstream mission-critical software, and the application of Ada’s unique strengths to modern software engineering challenges.​ Richard is a voting member of the ARG and WG 9, and has written a number of blog posts in a series “Should Have Used Ada”, achieving wide readership, being virally re-shared on sites like Hacker News, and lobste.rs. Together with Tucker Taft, Richard co-mentored Ethan Luis McDonough to the successful completion of a Google Summer of Code project implementing Ada 2022  parallel features in GNAT. Richard also served as co-host with Tucker for HILT 2020.​Richard is an active contributor to the Ada open-source software community, including as a contributor to FSF GNAT, and as a developer of several open-source Ada projects, including an alternative package management and build system."
 %}
 
